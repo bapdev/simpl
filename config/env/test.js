@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/simpl-test',
+	db: 'mongodb://meanuser:elohttub1983@ds043942.mongolab.com:43942/meal_plans',
 	port: 3001,
 	app: {
 		title: 'simpl - Test Environment'
